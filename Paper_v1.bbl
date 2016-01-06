@@ -1,0 +1,452 @@
+\begin{thebibliography}{78}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Abbott {\it et~al\/}(2006)Abbott, Forrest \& Pienta}]{Abbott2006}
+Abbott RG, Forrest S, Pienta KJ (2006) Simulating the hallmarks of cancer. {\it
+  Artif Life\/} {\bf 12}: 617--34
+
+\bibitem[{Albeck {\it et~al\/}(2008{\natexlab{a}})Albeck, Burke, Aldridge,
+  Zhang, Lauffenburger \& Sorger}]{Albeck2008a}
+Albeck JG, Burke JM, Aldridge BB, Zhang M, Lauffenburger DA, Sorger PK
+  (2008{\natexlab{a}}) Quantitative analysis of pathways controlling extrinsic
+  apoptosis in single cells. {\it Mol Cell\/} {\bf 30}: 11--25
+
+\bibitem[{Albeck {\it et~al\/}(2008{\natexlab{b}})Albeck, Burke, Spencer,
+  Lauffenburger \& Sorger}]{Albeck2008}
+Albeck JG, Burke JM, Spencer SL, Lauffenburger DA, Sorger PK
+  (2008{\natexlab{b}}) Modeling a snap-action, variable-delay switch
+  controlling extrinsic cell death. {\it PLoS Biol\/} {\bf 6}: 2831--52
+
+\bibitem[{Aldridge {\it et~al\/}(2006)Aldridge, Burke, Lauffenburger \&
+  Sorger}]{Aldridge2006}
+Aldridge BB, Burke JM, Lauffenburger DA, Sorger PK (2006) Physicochemical
+  modelling of cell signalling pathways. {\it Nat Cell Biol\/} {\bf 8}:
+  1195--203
+
+\bibitem[{Aldridge {\it et~al\/}(2009)Aldridge, Saez-Rodriguez, Muhlich, Sorger
+  \& Lauffenburger}]{Aldridge2009}
+Aldridge BB, Saez-Rodriguez J, Muhlich JL, Sorger PK, Lauffenburger DA (2009)
+  Fuzzy logic analysis of kinase pathway crosstalk in TNF/EGF/insulin-induced
+  signaling. {\it PLoS Comput Biol\/} {\bf 5}: e1000340
+
+\bibitem[{Andasari {\it et~al\/}(2012)Andasari, Roper, Swat \&
+  Chaplain}]{Andasari2012}
+Andasari V, Roper RT, Swat MH, Chaplain MAJ (2012) Integrating intracellular
+  dynamics using CompuCell3D and Bionetsolver: applications to multiscale
+  modelling of cancer cell growth and invasion. {\it PLoS One\/} {\bf 7}:
+  e33726
+
+\bibitem[{Apgar {\it et~al\/}(2010)Apgar, Witmer, White \& Tidor}]{Apgar2010}
+Apgar JF, Witmer DK, White FM, Tidor B (2010) Sloppy models, parameter
+  uncertainty, and the role of experimental design. {\it Mol Biosyst\/} {\bf
+  6}: 1890--900
+
+\bibitem[{Bailey(2001)}]{Bailey2001}
+Bailey JE (2001) Complex biology with no parameters. {\it Nat Biotechnol\/}
+  {\bf 19}: 503--4
+
+\bibitem[{Bhalla {\it et~al\/}(2002)Bhalla, Ram \& Iyengar}]{Bhalla2002}
+Bhalla US, Ram PT, Iyengar R (2002) MAP kinase phosphatase as a locus of
+  flexibility in a mitogen-activated protein kinase signaling network. {\it
+  Science\/} {\bf 297}: 1018--23
+
+\bibitem[{Borisov {\it et~al\/}(2009)Borisov, Aksamitiene, Kiyatkin, Legewie,
+  Berkhout, Maiwald, Kaimachnikov, Timmer, Hoek \& Kholodenko}]{Borisov2009}
+Borisov N, Aksamitiene E, Kiyatkin A, Legewie S, Berkhout J, Maiwald T,
+  Kaimachnikov NP, Timmer J, Hoek JB, Kholodenko BN (2009) Systems-level
+  interactions between insulin-EGF networks amplify mitogenic signaling. {\it
+  Mol Syst Biol\/} {\bf 5}: 256
+
+\bibitem[{Chakrabarti {\it et~al\/}(2012)Chakrabarti, Verbridge, Stroock,
+  Fischbach \& Varner}]{Chakrabarti2012}
+Chakrabarti A, Verbridge S, Stroock AD, Fischbach C, Varner JD (2012)
+  Multiscale models of breast cancer progression. {\it Ann Biomed Eng\/} {\bf
+  40}: 2488--500
+
+\bibitem[{Chavali {\it et~al\/}(2008)Chavali, Gianchandani, Tung, Lawrence,
+  Peirce \& Papin}]{Chavali2008}
+Chavali AK, Gianchandani EP, Tung KS, Lawrence MB, Peirce SM, Papin JA (2008)
+  Characterizing emergent properties of immunological systems with
+  multi-cellular rule-based computational modeling. {\it Trends Immunol\/} {\bf
+  29}: 589--99
+
+\bibitem[{Chen {\it et~al\/}(2009)Chen, Schoeberl, Jasper, Niepel, Nielsen,
+  Lauffenburger \& Sorger}]{Chen2009}
+Chen WW, Schoeberl B, Jasper PJ, Niepel M, Nielsen UB, Lauffenburger DA, Sorger
+  PK (2009) Input-output behavior of ErbB signaling pathways as revealed by a
+  mass action model trained against dynamic data. {\it Mol Syst Biol\/} {\bf
+  5}: 239
+
+\bibitem[{Ciliberto {\it et~al\/}(2005)Ciliberto, Novak \&
+  Tyson}]{Ciliberto2005}
+Ciliberto A, Novak B, Tyson JJ (2005) Steady states and oscillations in the
+  p53/Mdm2 network. {\it Cell Cycle\/} {\bf 4}: 488--93
+
+\bibitem[{Cohen {\it et~al\/}(2008)Cohen, Geva-Zatorsky, Eden,
+  Frenkel-Morgenstern, Issaeva, Sigal, Milo, Cohen-Saidon, Liron, Kam, Cohen,
+  Danon, Perzov \& Alon}]{Cohen2008}
+Cohen AA, Geva-Zatorsky N, Eden E, Frenkel-Morgenstern M, Issaeva I, Sigal A,
+  Milo R, Cohen-Saidon C, Liron Y, Kam Z, Cohen L, Danon T, Perzov N, Alon U
+  (2008) Dynamic proteomics of individual cancer cells in response to a drug.
+  {\it Science\/} {\bf 322}: 1511--6
+
+\bibitem[{Daniels {\it et~al\/}(2008)Daniels, Chen, Sethna, Gutenkunst \&
+  Myers}]{Daniels2008}
+Daniels BC, Chen YJ, Sethna JP, Gutenkunst RN, Myers CR (2008) Sloppiness,
+  robustness, and evolvability in systems biology. {\it Curr Opin Biotechnol\/}
+  {\bf 19}: 389--95
+
+\bibitem[{Deisboeck {\it et~al\/}(2011)Deisboeck, Wang, Macklin \&
+  Cristini}]{Deisboeck2011}
+Deisboeck TS, Wang Z, Macklin P, Cristini V (2011) Multiscale cancer modeling.
+  {\it Annu Rev Biomed Eng\/} {\bf 13}: 127--55
+
+\bibitem[{Faratian {\it et~al\/}(2009)Faratian, Goltsov, Lebedeva, Sorokin,
+  Moodie, Mullen, Kay, Um, Langdon, Goryanin \& Harrison}]{Faratian2009}
+Faratian D, Goltsov A, Lebedeva G, Sorokin A, Moodie S, Mullen P, Kay C, Um IH,
+  Langdon S, Goryanin I, Harrison DJ (2009) Systems biology reveals new
+  strategies for personalizing cancer medicine and confirms the role of PTEN in
+  resistance to trastuzumab. {\it Cancer Res\/} {\bf 69}: 6713--20
+
+\bibitem[{Feldman and Feldman(2001)Feldman \& Feldman}]{Feldman2001}
+Feldman BJ, Feldman D (2001) The development of androgen-independent prostate
+  cancer. {\it Nat Rev Cancer\/} {\bf 1}: 34--45
+
+\bibitem[{Ferreira {\it et~al\/}(2002)Ferreira, Martins \&
+  Vilela}]{Ferreira2002}
+Ferreira Jr SC, Martins ML, Vilela MJ (2002) Reaction-diffusion model for the
+  growth of avascular tumor. {\it Phys Rev E Stat Nonlin Soft Matter Phys\/}
+  {\bf 65}: 021907
+
+\bibitem[{Forsten and Lauffenburger(1994)Forsten \&
+  Lauffenburger}]{Forsten1994}
+Forsten KE, Lauffenburger DA (1994) The role of low-affinity interleukin-2
+  receptors in autocrine ligand binding: alternative mechanisms for enhanced
+  binding effect. {\it Mol Immunol\/} {\bf 31}: 739--51
+
+\bibitem[{Gadkar {\it et~al\/}(2005)Gadkar, Varner \& Doyle}]{Gadkar2005}
+Gadkar KG, Varner J, Doyle 3rd FJ (2005) Model identification of signal
+  transduction networks from data using a state regulator problem. {\it Syst
+  Biol Stevenage\/} {\bf 2}: 17--30
+
+\bibitem[{Garraway and J{\"a}nne(2012)Garraway \& J{\"a}nne}]{Garraway2012}
+Garraway LA, J{\"a}nne PA (2012) Circumventing cancer drug resistance in the
+  era of personalized medicine. {\it Cancer Discov\/} {\bf 2}: 214--26
+
+\bibitem[{Hanahan and Weinberg(2000)Hanahan \& Weinberg}]{Hanahan2000}
+Hanahan D, Weinberg RA (2000) The hallmarks of cancer. {\it Cell\/} {\bf 100}:
+  57--70
+
+\bibitem[{Hanahan and Weinberg(2011)Hanahan \& Weinberg}]{Hanahan2011}
+Hanahan D, Weinberg RA (2011) Hallmarks of cancer: the next generation. {\it
+  Cell\/} {\bf 144}: 646--74
+
+\bibitem[{Hasenauer {\it et~al\/}(2011)Hasenauer, Waldherr, Doszczak, Radde,
+  Scheurich \& Allg{\"o}wer}]{Hasenauer2011}
+Hasenauer J, Waldherr S, Doszczak M, Radde N, Scheurich P, Allg{\"o}wer F
+  (2011) Identification of models of heterogeneous cell populations from
+  population snapshot data. {\it BMC Bioinformatics\/} {\bf 12}: 125
+
+\bibitem[{Hattne {\it et~al\/}(2005)Hattne, Fange \& Elf}]{Hattne2005}
+Hattne J, Fange D, Elf J (2005) Stochastic reaction-diffusion simulation with
+  MesoRD. {\it Bioinformatics\/} {\bf 21}: 2923--4
+
+\bibitem[{Heiser {\it et~al\/}(2009)Heiser, Wang, Talcott, Laderoute, Knapp,
+  Guan, Hu, Ziyad, Weber, Laquerre, Jackson, Wooster, Kuo, Gray \&
+  Spellman}]{Heiser2009}
+Heiser LM, Wang NJ, Talcott CL, Laderoute KR, Knapp M, Guan Y, Hu Z, Ziyad S,
+  Weber BL, Laquerre S, Jackson JR, Wooster RF, Kuo WL, Gray JW, Spellman PT
+  (2009) Integrated analysis of breast cancer cell lines reveals unique
+  signaling pathways. {\it Genome Biol\/} {\bf 10}: R31
+
+\bibitem[{Hoffmann {\it et~al\/}(2002)Hoffmann, Levchenko, Scott \&
+  Baltimore}]{Hoffmann2002}
+Hoffmann A, Levchenko A, Scott ML, Baltimore D (2002) The IkappaB-NF-kappaB
+  signaling module: temporal control and selective gene activation. {\it
+  Science\/} {\bf 298}: 1241--5
+
+\bibitem[{Huang and Ingber(2000)Huang \& Ingber}]{Huang2000}
+Huang S, Ingber DE (2000) Shape-dependent control of cell growth,
+  differentiation, and apoptosis: switching between attractors in cell
+  regulatory networks. {\it Exp Cell Res\/} {\bf 261}: 91--103
+
+\bibitem[{Hutchinson and Kirk(2011)Hutchinson \& Kirk}]{Hutchinson2011}
+Hutchinson L, Kirk R (2011) High drug attrition rates--where are we going
+  wrong? {\it Nat Rev Clin Oncol\/} {\bf 8}: 189--90
+
+\bibitem[{Hynes and Lane(2005)Hynes \& Lane}]{Hynes2005}
+Hynes NE, Lane HA (2005) ERBB receptors and cancer: the complexity of targeted
+  inhibitors. {\it Nat Rev Cancer\/} {\bf 5}: 341--54
+
+\bibitem[{Iadevaia {\it et~al\/}(2010)Iadevaia, Lu, Morales, Mills \&
+  Ram}]{Iadevaia2010}
+Iadevaia S, Lu Y, Morales FC, Mills GB, Ram PT (2010) Identification of optimal
+  drug combinations targeting cellular networks: integrating phospho-proteomics
+  and computational network analysis. {\it Cancer Res\/} {\bf 70}: 6704--14
+
+\bibitem[{Jiang {\it et~al\/}(2005)Jiang, Pjesivac-Grbovic, Cantrell \&
+  Freyer}]{Jiang2005}
+Jiang Y, Pjesivac-Grbovic J, Cantrell C, Freyer JP (2005) A multiscale model
+  for avascular tumor growth. {\it Biophys J\/} {\bf 89}: 3884--94
+
+\bibitem[{Kalita {\it et~al\/}(2011)Kalita, Sargsyan, Tian,
+  Paulucci-Holthauzen, Najm, Debusschere \& Brasier}]{Kalita2011}
+Kalita MK, Sargsyan K, Tian B, Paulucci-Holthauzen A, Najm HN, Debusschere BJ,
+  Brasier AR (2011) Sources of cell-to-cell variability in canonical nuclear
+  factor-kappaB (NF-kappaB) signaling pathway inferred from single cell dynamic
+  images. {\it J Biol Chem\/} {\bf 286}: 37741--57
+
+\bibitem[{Kauffman(1969)}]{Kauffman1969}
+Kauffman SA (1969) Metabolic stability and epigenesis in randomly constructed
+  genetic nets. {\it J Theor Biol\/} {\bf 22}: 437--67
+
+\bibitem[{Kaul and Ventikos(2013)Kaul \& Ventikos}]{Kaul2013}
+Kaul H, Ventikos Y (2013) Investigating biocomplexity through the agent-based
+  paradigm. {\it Brief Bioinform\/}
+
+\bibitem[{Keith {\it et~al\/}(2005)Keith, Borisy \& Stockwell}]{Keith2005}
+Keith CT, Borisy AA, Stockwell BR (2005) Multicomponent therapeutics for
+  networked systems. {\it Nat Rev Drug Discov\/} {\bf 4}: 71--8
+
+\bibitem[{Kholodenko {\it et~al\/}(2012)Kholodenko, Yaffe \&
+  Kolch}]{Kholodenko2012}
+Kholodenko B, Yaffe MB, Kolch W (2012) Computational approaches for analyzing
+  information flow in biological networks. {\it Sci Signal\/} {\bf 5}: re1
+
+\bibitem[{Kholodenko {\it et~al\/}(1999)Kholodenko, Demin, Moehren \&
+  Hoek}]{Kholodenko1999}
+Kholodenko BN, Demin OV, Moehren G, Hoek JB (1999) Quantification of short term
+  signaling by the epidermal growth factor receptor. {\it J Biol Chem\/} {\bf
+  274}: 30169--81
+
+\bibitem[{Kim {\it et~al\/}(2007)Kim, Rath, Kolch \& Cho}]{Kim2007}
+Kim D, Rath O, Kolch W, Cho KH (2007) A hidden oncogenic positive feedback loop
+  caused by crosstalk between Wnt and ERK pathways. {\it Oncogene\/} {\bf 26}:
+  4571--9
+
+\bibitem[{Kirouac {\it et~al\/}(2013)Kirouac, Du, Lahdenranta, Overland, Yarar,
+  Paragas, Pace, McDonagh, Nielsen \& Onsum}]{Kirouac2013}
+Kirouac DC, Du JY, Lahdenranta J, Overland R, Yarar D, Paragas V, Pace E,
+  McDonagh CF, Nielsen UB, Onsum MD (2013) Computational modeling of
+  ERBB2-amplified breast cancer identifies combined ErbB2/3 blockade as
+  superior to the combination of MEK and AKT inhibitors. {\it Sci Signal\/}
+  {\bf 6}: ra68
+
+\bibitem[{Klinger {\it et~al\/}(2013)Klinger, Sieber, Fritsche-Guenther,
+  Witzel, Berry, Schumacher, Yan, Durek, Merchant, Sch{\"a}fer, Sers \&
+  Bl{\"u}thgen}]{Klinger2013}
+Klinger B, Sieber A, Fritsche-Guenther R, Witzel F, Berry L, Schumacher D, Yan
+  Y, Durek P, Merchant M, Sch{\"a}fer R, Sers C, Bl{\"u}thgen N (2013) Network
+  quantification of EGFR signaling unveils potential for targeted combination
+  therapy. {\it Mol Syst Biol\/} {\bf 9}: 673
+
+\bibitem[{Lazebnik(2010)}]{Lazebnik2010}
+Lazebnik Y (2010) What are the hallmarks of cancer? {\it Nat Rev Cancer\/} {\bf
+  10}: 232--3
+
+\bibitem[{Lee {\it et~al\/}(2012)Lee, Ye, Gardino, Heijink, Sorger, MacBeath \&
+  Yaffe}]{Lee2012}
+Lee MJ, Ye AS, Gardino AK, Heijink AM, Sorger PK, MacBeath G, Yaffe MB (2012)
+  Sequential application of anticancer drugs enhances cell death by rewiring
+  apoptotic signaling networks. {\it Cell\/} {\bf 149}: 780--94
+
+\bibitem[{Lequieu {\it et~al\/}(2011)Lequieu, Chakrabarti, Nayak \&
+  Varner}]{Lequieu2011}
+Lequieu J, Chakrabarti A, Nayak S, Varner JD (2011) Computational modeling and
+  analysis of insulin induced eukaryotic translation initiation. {\it PLoS
+  Comput Biol\/} {\bf 7}: e1002263
+
+\bibitem[{Luan {\it et~al\/}(2010)Luan, Szlam, Tanaka, Barie \&
+  Varner}]{Luan2010}
+Luan D, Szlam F, Tanaka KA, Barie PS, Varner JD (2010) Ensembles of uncertain
+  mathematical models can identify network response to therapeutic
+  interventions. {\it Mol Biosyst\/} {\bf 6}: 2272--86
+
+\bibitem[{Massey {\it et~al\/}(2012)Massey, Assanah, Lopez, Canoll \&
+  Swanson}]{Massey2012}
+Massey SC, Assanah MC, Lopez KA, Canoll P, Swanson KR (2012) Glial progenitor
+  cell recruitment drives aggressive glioma growth: mathematical and
+  experimental modelling. {\it J R Soc Interface\/} {\bf 9}: 1757--66
+
+\bibitem[{Morris {\it et~al\/}(2010)Morris, Saez-Rodriguez, Sorger \&
+  Lauffenburger}]{Morris2010}
+Morris MK, Saez-Rodriguez J, Sorger PK, Lauffenburger DA (2010) Logic-based
+  models for the analysis of cell signaling networks. {\it Biochemistry\/} {\bf
+  49}: 3216--24
+
+\bibitem[{Perfahl {\it et~al\/}(2011)Perfahl, Byrne, Chen, Estrella,
+  Alarc{\'o}n, Lapin, Gatenby, Gillies, Lloyd, Maini, Reuss \&
+  Owen}]{Perfahl2011}
+Perfahl H, Byrne HM, Chen T, Estrella V, Alarc{\'o}n T, Lapin A, Gatenby RA,
+  Gillies RJ, Lloyd MC, Maini PK, Reuss M, Owen MR (2011) Multiscale modelling
+  of vascular tumour growth in 3D: the roles of domain size and boundary
+  conditions. {\it PLoS One\/} {\bf 6}: e14790
+
+\bibitem[{Pollack(2011)}]{Pollack2011}
+Pollack A (2011) F.D.A. revokes approval of Avastin for Use as Breast Cancer
+  Drug. {\it The New York Times\/}
+
+\bibitem[{Qutub {\it et~al\/}(2009)Qutub, Mac~Gabhann, Karagiannis, Vempati \&
+  Popel}]{Qutub2009}
+Qutub AA, Mac~Gabhann F, Karagiannis ED, Vempati P, Popel AS (2009) Multiscale
+  models of angiogenesis. {\it IEEE Eng Med Biol Mag\/} {\bf 28}: 14--31
+
+\bibitem[{Reddy {\it et~al\/}(1996)Reddy, Niyogi, Wells, Wiley \&
+  Lauffenburger}]{Reddy1996}
+Reddy CC, Niyogi SK, Wells A, Wiley HS, Lauffenburger DA (1996) Engineering
+  epidermal growth factor for enhanced mitogenic potency. {\it Nat
+  Biotechnol\/} {\bf 14}: 1696--9
+
+\bibitem[{Rehm {\it et~al\/}(2006)Rehm, Huber, Dussmann \& Prehn}]{Rehm2006}
+Rehm M, Huber HJ, Dussmann H, Prehn JHM (2006) Systems analysis of effector
+  caspase activation and its control by X-linked inhibitor of apoptosis
+  protein. {\it EMBO J\/} {\bf 25}: 4338--49
+
+\bibitem[{Ryall and Tan(2015)Ryall \& Tan}]{Ryall2015}
+Ryall KA, Tan AC (2015) Systems biology approaches for advancing the discovery
+  of effective drug combinations. {\it J Cheminform\/} {\bf 7}: 7
+
+\bibitem[{Saez-Rodriguez {\it et~al\/}(2009)Saez-Rodriguez, Alexopoulos,
+  Epperlein, Samaga, Lauffenburger, Klamt \& Sorger}]{Saez-Rodriguez2009}
+Saez-Rodriguez J, Alexopoulos LG, Epperlein J, Samaga R, Lauffenburger DA,
+  Klamt S, Sorger PK (2009) Discrete logic modelling as a means to link protein
+  signalling networks with functional analysis of mammalian signal
+  transduction. {\it Mol Syst Biol\/} {\bf 5}: 331
+
+\bibitem[{Saez-Rodriguez {\it et~al\/}(2011)Saez-Rodriguez, Alexopoulos, Zhang,
+  Morris, Lauffenburger \& Sorger}]{Saez-Rodriguez2011}
+Saez-Rodriguez J, Alexopoulos LG, Zhang M, Morris MK, Lauffenburger DA, Sorger
+  PK (2011) Comparing signaling networks between normal and transformed
+  hepatocytes using discrete logical models. {\it Cancer Res\/} {\bf 71}:
+  5400--11
+
+\bibitem[{Saez-Rodriguez {\it et~al\/}(2007)Saez-Rodriguez, Simeoni, Lindquist,
+  Hemenway, Bommhardt, Arndt, Haus, Weismantel, Gilles, Klamt \&
+  Schraven}]{Saez-Rodriguez2007}
+Saez-Rodriguez J, Simeoni L, Lindquist JA, Hemenway R, Bommhardt U, Arndt B,
+  Haus UU, Weismantel R, Gilles ED, Klamt S, Schraven B (2007) A logical model
+  provides insights into T cell receptor signaling. {\it PLoS Comput Biol\/}
+  {\bf 3}: e163
+
+\bibitem[{Sahin {\it et~al\/}(2009)Sahin, Fr{\"o}hlich, L{\"o}bke, Korf,
+  Burmester, Majety, Mattern, Schupp, Chaouiya, Thieffry, Poustka, Wiemann,
+  Beissbarth \& Arlt}]{Sahin2009}
+Sahin O, Fr{\"o}hlich H, L{\"o}bke C, Korf U, Burmester S, Majety M, Mattern J,
+  Schupp I, Chaouiya C, Thieffry D, Poustka A, Wiemann S, Beissbarth T, Arlt D
+  (2009) Modeling ERBB receptor-regulated G1/S transition to find novel targets
+  for de novo trastuzumab resistance. {\it BMC Syst Biol\/} {\bf 3}: 1
+
+\bibitem[{Salomon {\it et~al\/}(1995)Salomon, Brandt, Ciardiello \&
+  Normanno}]{Salomon1995}
+Salomon DS, Brandt R, Ciardiello F, Normanno N (1995) Epidermal growth
+  factor-related peptides and their receptors in human malignancies. {\it Crit
+  Rev Oncol Hematol\/} {\bf 19}: 183--232
+
+\bibitem[{Samaga {\it et~al\/}(2009)Samaga, Saez-Rodriguez, Alexopoulos, Sorger
+  \& Klamt}]{Samaga2009}
+Samaga R, Saez-Rodriguez J, Alexopoulos LG, Sorger PK, Klamt S (2009) The logic
+  of EGFR/ErbB signaling: theoretical properties and analysis of
+  high-throughput data. {\it PLoS Comput Biol\/} {\bf 5}: e1000438
+
+\bibitem[{Schoeberl {\it et~al\/}(2002)Schoeberl, Eichler-Jonsson, Gilles \&
+  M{\"u}ller}]{Schoeberl2002}
+Schoeberl B, Eichler-Jonsson C, Gilles ED, M{\"u}ller G (2002) Computational
+  modeling of the dynamics of the MAP kinase cascade activated by surface and
+  internalized EGF receptors. {\it Nat Biotechnol\/} {\bf 20}: 370--5
+
+\bibitem[{Schoeberl {\it et~al\/}(2009)Schoeberl, Pace, Fitzgerald, Harms, Xu,
+  Nie, Linggi, Kalra, Paragas, Bukhalid, Grantcharova, Kohli, West,
+  Leszczyniecka, Feldhaus, Kudla \& Nielsen}]{Schoeberl2009}
+Schoeberl B, Pace EA, Fitzgerald JB, Harms BD, Xu L, Nie L, Linggi B, Kalra A,
+  Paragas V, Bukhalid R, Grantcharova V, Kohli N, West KA, Leszczyniecka M,
+  Feldhaus MJ, Kudla AJ, Nielsen UB (2009) Therapeutically targeting ErbB3: a
+  key node in ligand-induced activation of the ErbB receptor-PI3K axis. {\it
+  Sci Signal\/} {\bf 2}: ra31
+
+\bibitem[{Sklar(2007)}]{Sklar2007}
+Sklar E (2007) NetLogo, a multi-agent simulation environment. {\it Artif
+  Life\/} {\bf 13}: 303--11
+
+\bibitem[{Song {\it et~al\/}(2010)Song, Chakrabarti \& Varner}]{Song2010}
+Song SO, Chakrabarti A, Varner JD (2010) Ensembles of signal transduction
+  models using Pareto Optimal Ensemble Techniques (POETs). {\it Biotechnol J\/}
+  {\bf 5}: 768--80
+
+\bibitem[{Starbuck and Lauffenburger(1992)Starbuck \&
+  Lauffenburger}]{Starbuck1992}
+Starbuck C, Lauffenburger DA (1992) Mathematical model for the effects of
+  epidermal growth factor receptor trafficking dynamics on fibroblast
+  proliferation responses. {\it Biotechnol Prog\/} {\bf 8}: 132--43
+
+\bibitem[{Swameye {\it et~al\/}(2003)Swameye, Muller, Timmer, Sandra \&
+  Klingmuller}]{Swameye2003}
+Swameye I, Muller TG, Timmer J, Sandra O, Klingmuller U (2003) Identification
+  of nucleocytoplasmic cycling as a remote sensor in cellular signaling by
+  databased modeling. {\it Proc Natl Acad Sci U S A\/} {\bf 100}: 1028--33
+
+\bibitem[{Swanson {\it et~al\/}(2003)Swanson, True \& Murray}]{Swanson2003}
+Swanson KR, True LD, Murray JD (2003) On the use of quantitative modeling to
+  help understand prostate-specific antigen dynamics and other medical
+  problems. {\it Am J Clin Pathol\/} {\bf 119}: 14--7
+
+\bibitem[{Tasseff {\it et~al\/}(2010)Tasseff, Nayak, Salim, Kaushik, Rizvi \&
+  Varner}]{Tasseff2010}
+Tasseff R, Nayak S, Salim S, Kaushik P, Rizvi N, Varner JD (2010) Analysis of
+  the molecular networks in androgen dependent and independent prostate cancer
+  revealed fragile and robust subsystems. {\it PLoS One\/} {\bf 5}: e8864
+
+\bibitem[{U.~S. National Institutes~of Health(2013)}]{CancerGovClasses}
+U.~S. National Institutes~of Health NCI (2013) SEER Training Modules,
+  Classification
+
+\bibitem[{van Leeuwen {\it et~al\/}(2007)van Leeuwen, Byrne, Jensen \&
+  King}]{Leeuwen2007}
+van Leeuwen IMM, Byrne HM, Jensen OE, King JR (2007) Elucidating the
+  interactions between the adhesive and transcriptional functions of
+  beta-catenin in normal and cancerous cells. {\it J Theor Biol\/} {\bf 247}:
+  77--102
+
+\bibitem[{van Leeuwen {\it et~al\/}(2009)van Leeuwen, Mirams, Walter, Fletcher,
+  Murray, Osborne, Varma, Young, Cooper, Doyle, Pitt-Francis, Momtahan,
+  Pathmanathan, Whiteley, Chapman, Gavaghan, Jensen, King, Maini, Waters {\it
+  et~al\/}}]{Leeuwen2009}
+van Leeuwen IMM, Mirams GR, Walter A, Fletcher A, Murray P, Osborne J, Varma S,
+  Young SJ, Cooper J, Doyle B, Pitt-Francis J, Momtahan L, Pathmanathan P,
+  Whiteley JP, Chapman SJ, Gavaghan DJ, Jensen OE, King JR, Maini PK, Waters
+  SL, {\it et~al\/} (2009) An integrative computational model for intestinal
+  tissue renewal. {\it Cell Prolif\/} {\bf 42}: 617--36
+
+\bibitem[{Vanneman and Dranoff(2012)Vanneman \& Dranoff}]{Vanneman2012}
+Vanneman M, Dranoff G (2012) Combining immunotherapy and targeted therapies in
+  cancer treatment. {\it Nat Rev Cancer\/} {\bf 12}: 237--51
+
+\bibitem[{Vera {\it et~al\/}(2008)Vera, Bachmann, Pfeifer, Becker, Hormiga,
+  Darias, Timmer, Klingm{\"u}ller \& Wolkenhauer}]{Vera2008}
+Vera J, Bachmann J, Pfeifer AC, Becker V, Hormiga JA, Darias NVT, Timmer J,
+  Klingm{\"u}ller U, Wolkenhauer O (2008) A systems biology approach to analyse
+  amplification in the JAK2-STAT5 signalling pathway. {\it BMC Syst Biol\/}
+  {\bf 2}: 38
+
+\bibitem[{Wang {\it et~al\/}(2009)Wang, Birch, Sagotsky \&
+  Deisboeck}]{Wang2009}
+Wang Z, Birch CM, Sagotsky J, Deisboeck TS (2009) Cross-scale, cross-pathway
+  evaluation using an agent-based non-small cell lung cancer model. {\it
+  Bioinformatics\/} {\bf 25}: 2389--96
+
+\bibitem[{Wiley {\it et~al\/}(2003)Wiley, Shvartsman \&
+  Lauffenburger}]{Wiley2003}
+Wiley HS, Shvartsman SY, Lauffenburger DA (2003) Computational modeling of the
+  EGF-receptor system: a paradigm for systems biology. {\it Trends Cell Biol\/}
+  {\bf 13}: 43--50
+
+\bibitem[{Yarden and Sliwkowski(2001)Yarden \& Sliwkowski}]{Yarden2001}
+Yarden Y, Sliwkowski MX (2001) Untangling the ErbB signalling network. {\it Nat
+  Rev Mol Cell Biol\/} {\bf 2}: 127--37
+
+\bibitem[{Zhang {\it et~al\/}(2008)Zhang, Shah, Yang, Nyland, Liu, Yun, Albert
+  \& Loughran}]{Zhang2008}
+Zhang R, Shah MV, Yang J, Nyland SB, Liu X, Yun JK, Albert R, Loughran Jr TP
+  (2008) Network model of survival signaling in large granular lymphocyte
+  leukemia. {\it Proc Natl Acad Sci U S A\/} {\bf 105}: 16308--13
+
+\end{thebibliography}

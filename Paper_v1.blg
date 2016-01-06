@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Paper_v1.aux
+The style file: msb.bst
+format.org.or.pub is an unknown function---line 862 of file msb.bst
+format.org.or.pub is an unknown function---line 870 of file msb.bst
+Database file #1: Review_References.bib
+Warning--entry type for "CancerGovClasses" isn't style-file defined
+--line 1290 of file Review_References.bib
+You've used 78 entries,
+            2578 wiz_defined-function locations,
+            1090 strings with 21560 characters,
+and the built_in function-call counts, 55926 in all, are:
+= -- 5198
+> -- 4344
+< -- 19
++ -- 4221
+- -- 1206
+* -- 4862
+:= -- 8879
+add.period$ -- 77
+call.type$ -- 78
+change.case$ -- 713
+chr.to.int$ -- 77
+cite$ -- 78
+duplicate$ -- 1836
+empty$ -- 2661
+format.name$ -- 1454
+if$ -- 10837
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 238
+num.names$ -- 312
+pop$ -- 1685
+preamble$ -- 1
+purify$ -- 790
+quote$ -- 0
+skip$ -- 1969
+stack$ -- 0
+substring$ -- 2156
+swap$ -- 364
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 702
+warning$ -- 0
+while$ -- 309
+width$ -- 0
+write$ -- 857
+(There were 2 error messages)
